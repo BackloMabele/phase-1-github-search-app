@@ -2,12 +2,26 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  background-color: rgb(135, 248, 178);
+  margin: 20px 500px;
 }
 
 #github-container {
   display: flex;
+  color: rgb(216, 38, 91);
+  background-color: rgb(228, 228, 219);
 }
 
 ul {
   list-style: none;
+}
+
+html {
+  background-color: rgb(2, 54, 12);
+  color: azure;
+}
+h2 {
+  color: rgb(235, 193, 6);
+  font-size: 50px;
+  background-color: rgb(250, 249, 249);
 }
